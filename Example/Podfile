@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FXCommomTest_Tests' do
+  pod 'FXCommomTest', :path => '../'
+  
+  
+end
