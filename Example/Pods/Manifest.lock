@@ -1,0 +1,16 @@
+PODS:
+  - FXCommomTest (0.1.0)
+
+DEPENDENCIES:
+  - FXCommomTest (from `../`)
+
+EXTERNAL SOURCES:
+  FXCommomTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXCommomTest: efe03a5998afaf35da1e073850c2b80dca8eb1a9
+
+PODFILE CHECKSUM: 5576db5c4d73e3e4fb1e1013a00d832fac0a607f
+
+COCOAPODS: 1.5.3

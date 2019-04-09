@@ -1,0 +1,6 @@
+framework module FXCommomTest {
+  umbrella header "FXCommomTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
